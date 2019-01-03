@@ -3,3 +3,6 @@ This is my Portfolio/Resume for business purposes. Also a fun project that enjoy
 
 12/1/18
 First release. Still need to fill in the about page and the 4 remaining projects spaces.
+
+1/2/19
+Made the About page. Working on the project spaces still. Portfolio Is official up for review!
